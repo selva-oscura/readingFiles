@@ -1,0 +1,11 @@
+{
+  "name": "parsing_files",
+  "version": "1.0.0",
+  "description": "practice parsing different types of inputs",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carol  St. Louis",
+  "license": "ISC"
+}
